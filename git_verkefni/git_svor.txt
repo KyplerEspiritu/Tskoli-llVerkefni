@@ -60,3 +60,8 @@ The purpose of Git is to manage a project, or a set of files, as they change ove
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
 The git branch command lets you create, list, rename, and delete branches. It doesn’t let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands.
+
+
+9.	Hver fann upp GIT?
+
+Linus Torvalds árið 2005.
