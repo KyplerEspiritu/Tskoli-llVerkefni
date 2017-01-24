@@ -1,0 +1,12 @@
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	cd ~
+	ls
+	pwd
+	mkdir
+
+"cd" -- breytir um skrá(change directory).
+"cd ~" -- fer til heimasvæði notanda(H:), hvar sem maður er.
+"ls" -- sýnir hvaða skráir eru inn í einum Skrá(directory).
+"pwd" -- sýnir hvaða Skráir(directories) sem þú ert að vinna í.
+"mkdir" -- býr til nýjan Skrá(directory).
