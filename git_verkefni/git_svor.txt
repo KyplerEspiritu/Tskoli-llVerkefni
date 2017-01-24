@@ -55,3 +55,8 @@ Working directory is the directory with your source files under git control (in 
 The staging area is a file, generally contained in your Git directory, that stores information about what will go into your next commit.
 
 The purpose of Git is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a Repository.
+
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+The git branch command lets you create, list, rename, and delete branches. It doesn’t let you switch between branches or put a forked history back together again. For this reason, git branch is tightly integrated with the git checkout and git merge commands.
