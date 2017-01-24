@@ -23,3 +23,12 @@
 "git status" -- Skoða hvað í möppunni
 "git diff" --  Sýnir breytingar á milli commit-s
 "git checkout" -- Skoðar öll commit-inn
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+"git diff" -- Sýnir breytingar á milli commit-s
+"git diff --staged"  -- Sýnir breytingar í skrá
+"git diff commit1 commit2" -- Sýnir munnin á milli tvo eða fleiri skrá
