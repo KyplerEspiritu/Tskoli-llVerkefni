@@ -41,3 +41,8 @@ Version control systems are a category of software tools that help a software te
 5.	Hverjir eru helstu kostir við að nota GIT?
 
 Data integrity is assured: Because git uses SHA1 trees, data corruption due to external reasons can be easily detected.
+
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+Það fylgir eftir hversu margar spurningar eru í verkefninu.
