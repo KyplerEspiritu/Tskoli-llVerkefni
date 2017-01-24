@@ -32,3 +32,7 @@
 "git diff" -- Sýnir breytingar á milli commit-s
 "git diff --staged"  -- Sýnir breytingar í skrá
 "git diff commit1 commit2" -- Sýnir munnin á milli tvo eða fleiri skrá
+
+4. Hvað er útgáfustýring (e.version control)? 
+
+Version control systems are a category of software tools that help a software team manage changes to source code over time.
