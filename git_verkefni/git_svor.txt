@@ -65,3 +65,9 @@ The git branch command lets you create, list, rename, and delete branches. It do
 9.	Hver fann upp GIT?
 
 Linus Torvalds árið 2005.
+
+
+
+10.	Hvar er GIT helst notað?
+
+Hjá fólki sem vinnur mikið við tölvur.
