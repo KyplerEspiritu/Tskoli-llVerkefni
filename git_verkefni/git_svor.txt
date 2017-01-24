@@ -36,3 +36,8 @@
 4. Hvað er útgáfustýring (e.version control)? 
 
 Version control systems are a category of software tools that help a software team manage changes to source code over time.
+
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+
+Data integrity is assured: Because git uses SHA1 trees, data corruption due to external reasons can be easily detected.
