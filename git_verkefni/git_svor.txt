@@ -10,3 +10,16 @@
 "ls" -- sýnir hvaða skráir eru inn í einum Skrá(directory).
 "pwd" -- sýnir hvaða Skráir(directories) sem þú ert að vinna í.
 "mkdir" -- býr til nýjan Skrá(directory).
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+	git log
+	git status
+	git diff
+	git checkout
+
+"git clone" -- Setur upp geymslu, eða tekur geymslu sem er búið til
+"git log " -- Sýnir skuldbinda notkunarskrá
+"git status" -- Skoða hvað í möppunni
+"git diff" --  Sýnir breytingar á milli commit-s
+"git checkout" -- Skoðar öll commit-inn
