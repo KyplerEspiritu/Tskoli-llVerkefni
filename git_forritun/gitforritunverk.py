@@ -13,5 +13,11 @@ summ = tala1 + tala2
 print("Summa talnanna er", summ)
 print("Ef þú margfaldar tölurnar saman færðu",marg)
 
+#Dæmi 2
 
+
+fornafn = input("Fornafn?: ")
+eftirnafn = input("Eftirnafn?: ")
+
+print("Halló",fornafn, eftirnafn)
 
